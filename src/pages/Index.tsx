@@ -116,7 +116,7 @@ const Index = () => {
           <div className="lg:col-span-2 space-y-6">
             <div className="flex justify-between items-center">
               <h2 className="text-2xl font-bold text-gray-800">Term Sheet Validation</h2>
-              {(status !== 'idle') && (status !== 'uploading') && (
+              {status !== 'idle' && status !== 'uploading' && (
                 <Button 
                   variant="outline" 
                   size="sm" 
