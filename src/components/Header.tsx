@@ -37,12 +37,12 @@ const Header: React.FC = () => {
           </nav>
           
           <div className="flex items-center space-x-2">
-            <span className="text-xs px-2 py-1 bg-financial-primary/10 text-financial-primary rounded-full font-medium">
+            {/* <span className="text-xs px-2 py-1 bg-financial-primary/10 text-financial-primary rounded-full font-medium">
               Beta
             </span>
             <Button variant="outline" size="sm" className="hidden md:flex text-sm">
               Documentation
-            </Button>
+            </Button> */}
           </div>
         </div>
       </div>
