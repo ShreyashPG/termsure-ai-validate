@@ -198,13 +198,13 @@ export const generateSampleValidationResult = (documentName: string): Validation
   const fields: FieldValidation[] = [
     {
       field: 'TRADE DATE',
-      value: '2023-05-15',
+      value: '2025-05-15',
       isValid: true,
       confidence: 0.98,
     },
     {
       field: 'EFFECTIVE DATE',
-      value: '2023-05-18',
+      value: '2025-05-18',
       isValid: true,
       confidence: 0.96,
     },

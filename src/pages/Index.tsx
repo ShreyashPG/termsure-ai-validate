@@ -250,7 +250,7 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center text-sm text-gray-500">
             <div>
-              &copy; 2023 TermSure AI. All rights reserved.
+              &copy; 2025 TermSure AI. All rights reserved.
             </div>
             <div className="flex space-x-4 mt-2 md:mt-0">
               <a href="#" className="hover:text-financial-primary">Terms</a>
